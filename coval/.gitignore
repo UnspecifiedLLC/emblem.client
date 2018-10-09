@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+nodejs/test.env
+nodejs/env.sh
+src/nucypher/__pycache__
+.python-version
+test.env
