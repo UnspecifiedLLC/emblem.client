@@ -1,6 +1,7 @@
 {
   "name": "coval.js",
   "version": "0.1.0",
+  "repository": "git+https://github.com/UnspecifiedLLC/emblem.client.git",
   "description": "Circuits of Value Framework",
   "main": "build/Coval.js",
   "typings": "build/Coval.d.ts",
@@ -20,7 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "@types/bitcoinjs-lib": "^3.4.0",
-    "@types/node": "^9.4.0",
+    "@types/node": "9.6.35",
     "@types/superagent": "^3.5.7",
     "bip32": "^1.0.2",
     "bip39": "^2.5.0",
@@ -36,21 +37,20 @@
     "lightrail-client": "^1.3.0",
     "mirror-folder": "^2.1.1",
     "multichain-node": "^2.2.0-version1.0.4",
-    "node-uuid": "^1.4.8",
     "python-shell": "^0.4.0",
     "random-access-memory": "^2.4.0",
     "request": "^2.87.0",
     "secrets.js-grempe": "git+https://github.com/grempe/secrets.js.git",
-    "tsc": "^1.20150623.0",
-    "unloq": "^0.9.4"
+    "unloq": "^0.9.4",
+    "uuid": "3.3.2"
   },
   "devDependencies": {
     "@types/crypto-js": "^3.1.38",
-    "chai": "^4.1.2",
+    "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
     "mocha": "^5.0.0",
     "nyc": "^11.4.1",
-    "testdouble": "^3.3.3",
+    "testdouble": "^3.8.2",
     "typescript": "^2.6.2"
   }
 }
