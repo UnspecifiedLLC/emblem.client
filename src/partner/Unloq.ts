@@ -1,5 +1,5 @@
 "use strict"
-import * as Un from "Unloq"
+import * as Un from "unloq"
 import * as crypto from "crypto"
 import * as uuid from "uuid"
 
