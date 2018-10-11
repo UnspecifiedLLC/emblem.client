@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const Un = require("Unloq");
+const Un = require("unloq");
 const crypto = require("crypto");
 const uuid = require("uuid");
 class Unloq {
