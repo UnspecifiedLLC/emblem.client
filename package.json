@@ -35,11 +35,11 @@
     "python-shell": "^1.0.6",
     "random-access-memory": "^3.0.0",
     "request": "^2.88.0",
+    "secrets.js-grempe": "^1.1.0",
     "unloq": "^0.9.4",
     "uuid": "^3.3.2",
     "bip39shamir-web": "git+https://github.com/jkandzi/bip39shamir-web.git",
-    "coininfo": "git+https://github.com/DecentricCorp/coininfoplus.git",
-    "secrets.js-grempe": "git+https://github.com/grempe/secrets.js.git"
+    "coininfo": "git+https://github.com/DecentricCorp/coininfoplus.git"
   },
   "devDependencies": {
     "@types/crypto-js": "^3.1.43",
